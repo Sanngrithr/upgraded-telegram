@@ -1,0 +1,11 @@
+Z:\sd\upgraded-telegram\L01\bin\Debug\netcoreapp2.1\L01.deps.json
+Z:\sd\upgraded-telegram\L01\bin\Debug\netcoreapp2.1\L01.runtimeconfig.json
+Z:\sd\upgraded-telegram\L01\bin\Debug\netcoreapp2.1\L01.runtimeconfig.dev.json
+Z:\sd\upgraded-telegram\L01\bin\Debug\netcoreapp2.1\L01.dll
+Z:\sd\upgraded-telegram\L01\bin\Debug\netcoreapp2.1\L01.pdb
+Z:\sd\upgraded-telegram\L01\obj\Debug\netcoreapp2.1\L01.csprojAssemblyReference.cache
+Z:\sd\upgraded-telegram\L01\obj\Debug\netcoreapp2.1\L01.csproj.CoreCompileInputs.cache
+Z:\sd\upgraded-telegram\L01\obj\Debug\netcoreapp2.1\L01.AssemblyInfoInputs.cache
+Z:\sd\upgraded-telegram\L01\obj\Debug\netcoreapp2.1\L01.AssemblyInfo.cs
+Z:\sd\upgraded-telegram\L01\obj\Debug\netcoreapp2.1\L01.dll
+Z:\sd\upgraded-telegram\L01\obj\Debug\netcoreapp2.1\L01.pdb

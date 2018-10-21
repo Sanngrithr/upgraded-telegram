@@ -4,8 +4,6 @@ namespace Aufgabe_1
 {
     class Program
     {
-        static string[] rom = {"I", "V", "X", "L", "C", "D"};
-        static int[]    val = {1, 5, 10, 50, 100, 500};
         static int anumber; //stores the arabic number
         static string rnumber = ""; //stores the roman number
         

@@ -1,0 +1,11 @@
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\bin\Debug\netcoreapp2.1\Aufgabe 4.deps.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\bin\Debug\netcoreapp2.1\Aufgabe 4.runtimeconfig.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\bin\Debug\netcoreapp2.1\Aufgabe 4.runtimeconfig.dev.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\bin\Debug\netcoreapp2.1\Aufgabe 4.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\bin\Debug\netcoreapp2.1\Aufgabe 4.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\obj\Debug\netcoreapp2.1\Aufgabe 4.csprojAssemblyReference.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\obj\Debug\netcoreapp2.1\Aufgabe 4.csproj.CoreCompileInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\obj\Debug\netcoreapp2.1\Aufgabe 4.AssemblyInfoInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\obj\Debug\netcoreapp2.1\Aufgabe 4.AssemblyInfo.cs
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\obj\Debug\netcoreapp2.1\Aufgabe 4.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 4\obj\Debug\netcoreapp2.1\Aufgabe 4.pdb

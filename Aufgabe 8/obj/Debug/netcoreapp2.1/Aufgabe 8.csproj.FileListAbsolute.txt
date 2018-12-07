@@ -1,0 +1,11 @@
+Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.csprojAssemblyReference.cache
+Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.csproj.CoreCompileInputs.cache
+Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.AssemblyInfoInputs.cache
+Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.AssemblyInfo.cs
+Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.deps.json
+Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.runtimeconfig.json
+Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.runtimeconfig.dev.json
+Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.dll
+Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.pdb
+Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.dll
+Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.pdb

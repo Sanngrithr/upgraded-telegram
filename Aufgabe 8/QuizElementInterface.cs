@@ -1,8 +1,9 @@
 using System;
+using System.Collections.Generic;
 
 namespace Aufgabe_8
 {
-    interface QuizElementInterface
+    public interface QuizElementInterface
     {
         public String question
         {
@@ -40,11 +41,11 @@ namespace Aufgabe_8
             }
         }
 
-        public String GetCorrectAnswer();
+        String GetCorrectAnswer();
 
-        public int EvaluateAnswer();
+        int EvaluateAnswer();
 
-        public void AddQuestion();
+        void AddQuestion();
     }
 
 }

@@ -9,3 +9,9 @@ Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.dll
 Z:\sd\Aufgabe 8\bin\Debug\netcoreapp2.1\Aufgabe 8.pdb
 Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.dll
 Z:\sd\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.csprojAssemblyReference.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.csproj.CoreCompileInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.AssemblyInfoInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.AssemblyInfo.cs
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\Aufgabe 8\obj\Debug\netcoreapp2.1\Aufgabe 8.pdb

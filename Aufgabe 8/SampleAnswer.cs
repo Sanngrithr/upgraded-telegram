@@ -2,7 +2,7 @@ using System;
 
 namespace Aufgabe_8
 {
-    class SampleAnswer
+    public class SampleAnswer
     {
         public string text
         {
@@ -26,6 +26,12 @@ namespace Aufgabe_8
             {
                 isCorrect = value;
             }
+        }
+
+        public SampleAnswer(String text, Boolean verity)
+        {
+            this.text = text;
+            this.isCorrect = verity;
         }
     }
     

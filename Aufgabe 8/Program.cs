@@ -72,7 +72,11 @@ namespace Aufgabe_8
                         {
                             quizElements[currentQuizElement].EvaluateAnswer(true);
                         }
-                        quizElements[currentQuizElement].EvaluateAnswer(false);
+                        else
+                        {
+                            quizElements[currentQuizElement].EvaluateAnswer(false);
+                    
+                        }
                     }
                     else if(quizElements[currentQuizElement].GetType() == typeof(SimpleElement))
                     {

@@ -9,3 +9,14 @@ C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2
 C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.AssemblyInfo.cs
 C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.dll
 C:\Users\Jirka\Documents\HFU\SoftwareDesignCode\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.deps.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.runtimeconfig.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.runtimeconfig.dev.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\bin\Debug\netcoreapp2.0\HenrisQuiz.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.csprojAssemblyReference.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.csproj.CoreCompileInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.AssemblyInfoInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.AssemblyInfo.cs
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\upgraded-telegram\trunk\HenrisQuiz\obj\Debug\netcoreapp2.0\HenrisQuiz.pdb

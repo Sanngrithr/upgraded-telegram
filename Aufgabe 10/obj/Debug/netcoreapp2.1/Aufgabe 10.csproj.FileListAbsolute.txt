@@ -1,0 +1,11 @@
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\obj\Debug\netcoreapp2.1\Aufgabe 10.csprojAssemblyReference.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\obj\Debug\netcoreapp2.1\Aufgabe 10.csproj.CoreCompileInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\obj\Debug\netcoreapp2.1\Aufgabe 10.AssemblyInfoInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\obj\Debug\netcoreapp2.1\Aufgabe 10.AssemblyInfo.cs
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\bin\Debug\netcoreapp2.1\Aufgabe 10.deps.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\bin\Debug\netcoreapp2.1\Aufgabe 10.runtimeconfig.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\bin\Debug\netcoreapp2.1\Aufgabe 10.runtimeconfig.dev.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\bin\Debug\netcoreapp2.1\Aufgabe 10.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\bin\Debug\netcoreapp2.1\Aufgabe 10.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\obj\Debug\netcoreapp2.1\Aufgabe 10.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Aufgabe 10\obj\Debug\netcoreapp2.1\Aufgabe 10.pdb

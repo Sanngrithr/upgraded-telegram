@@ -12,11 +12,18 @@ namespace Aufgabe_10
             TreeElement<String> child11 = new TreeElement<String>("child11");
             TreeElement<String> child12 = new TreeElement<String>("child12");
             TreeElement<String> child121 = new TreeElement<String>("child121");
+            TreeElement<String> child13 = new TreeElement<String>("child13");
             TreeElement<String> child21 = new TreeElement<String>("child21");
 
             root.addChild(child1);
+            root.addChild(child2);
+            child1.addChild(child11);
+            child1.addChild(child12);
+            child12.addChild(child121);
+            child1.addChild(child13);
+            child2.addChild(child21);
 
-            root.PrintTree(root);
+            root.PrintTree();
         }
     }
 }

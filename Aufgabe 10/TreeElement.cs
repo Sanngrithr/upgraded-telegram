@@ -7,7 +7,7 @@ namespace Aufgabe_10
     {
         public dynamic item;
         public TreeElement<T> parent;
-        public List<TreeElement<T>> children;
+        public List<TreeElement<T>> children = new List<TreeElement<T>>();
         private int generation = 0;
 
         public TreeElement(dynamic item)
@@ -19,6 +19,7 @@ namespace Aufgabe_10
         {
             children.Add(node);
             node.parent = this;
+            node.generation = node.parent.generation + 1;
         }
 
         
@@ -27,10 +28,8 @@ namespace Aufgabe_10
             children.Remove(node);
         }
 
-        public void PrintTree(TreeElement<T> node)
+        public void PrintTree()
         {
-            generation++;
-
             for(int i = 0; i < generation; i++)
             {
                 Console.Write("*");
@@ -40,8 +39,7 @@ namespace Aufgabe_10
 
             foreach(var element in children)
             {
-                PrintTree(element);
-                generation--;
+                element.PrintTree();
             }
         }
     }

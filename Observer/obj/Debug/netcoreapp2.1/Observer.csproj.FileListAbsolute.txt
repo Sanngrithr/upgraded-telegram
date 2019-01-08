@@ -1,0 +1,11 @@
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\obj\Debug\netcoreapp2.1\Observer.csprojAssemblyReference.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\obj\Debug\netcoreapp2.1\Observer.csproj.CoreCompileInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfoInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\obj\Debug\netcoreapp2.1\Observer.AssemblyInfo.cs
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\bin\Debug\netcoreapp2.1\Observer.deps.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\bin\Debug\netcoreapp2.1\Observer.runtimeconfig.dev.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\bin\Debug\netcoreapp2.1\Observer.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\bin\Debug\netcoreapp2.1\Observer.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\obj\Debug\netcoreapp2.1\Observer.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Observer\obj\Debug\netcoreapp2.1\Observer.pdb

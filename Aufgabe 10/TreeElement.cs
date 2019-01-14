@@ -42,5 +42,20 @@ namespace Aufgabe_10
                 element.PrintTree();
             }
         }
+        
+        public void ForEach(Action<TreeElement<T>> function)
+        {
+            function(this);
+            for(int i = 0; i < this.children.Count; i++)
+            {
+                this.children[i].ForEach(function);
+            }
+        }
+
+        public static void WriteNode(TreeElement<T> node)
+        {
+            Console.Write(node.item.ToString() + " | ");
+        }
+
     }
 }

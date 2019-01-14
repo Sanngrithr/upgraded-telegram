@@ -34,6 +34,14 @@ namespace Aufgabe_10
 
             root.PrintTree();
             root2.PrintTree();
+
+            root.ForEach(TreeElement<String>.WriteNode);
+            Console.WriteLine();
+            child1.ForEach(TreeElement<String>.WriteNode);
+            Console.WriteLine();
+            
         }
+        
     }
+
 }

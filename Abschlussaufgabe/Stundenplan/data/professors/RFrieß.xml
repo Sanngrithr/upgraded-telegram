@@ -23,5 +23,17 @@
       </neededEquipment>
     </Course>
   </courses>
+  <optionalCourses>
+    <Course>
+      <name>AnalyseTVSerie</name>
+      <cohort>
+        <string>Optional</string>
+      </cohort>
+      <presetTime>
+        <int>0</int>
+        <int>3</int>
+      </presetTime>
+    </Course>
+  </optionalCourses>
   <notAvailable />
 </Professor>

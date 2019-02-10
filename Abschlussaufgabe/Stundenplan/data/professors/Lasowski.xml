@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Professor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Lasowski</name>
+  <courses>
+    <Course>
+      <name>MathematikUndSimulationVorlesung</name>
+      <cohort>
+        <string>MIB2</string>
+      </cohort>
+      <neededEquipment>
+        <Equipment>Projector</Equipment>
+        <Equipment>Chalkboard</Equipment>
+      </neededEquipment>
+    </Course>
+    <Course>
+    <name>MathematikUndSimulationPraktikum</name>
+      <cohort>
+        <string>MIB2</string>
+      </cohort>
+      <neededEquipment>
+        <Equipment>Projector</Equipment>
+        <Equipment>Chalkboard</Equipment>
+      </neededEquipment>
+    </Course>
+  </courses>
+  <optionalCourses>
+    <Course>
+      <name>IntroductionToDeepLearningSeminar</name>
+      <cohort>
+        <string>Optional</string>
+      </cohort>
+      <neededEquipment>
+        <Equipment>Projector</Equipment>
+        <Equipment>Chalkboard</Equipment>
+      </neededEquipment>
+      <presetTime>
+        <int>4</int>
+        <int>1</int>
+      </presetTime>
+    </Course>
+    <Course>
+      <name>IntroductionToDeepLearningPraktikum</name>
+      <cohort>
+        <string>Optional</string>
+      </cohort>
+      <neededEquipment>
+        <Equipment>Projector</Equipment>
+        <Equipment>Chalkboard</Equipment>
+      </neededEquipment>
+      <presetTime>
+        <int>4</int>
+        <int>2</int>
+      </presetTime>
+    </Course>
+  </optionalCourses>
+  <notAvailable />
+</Professor>

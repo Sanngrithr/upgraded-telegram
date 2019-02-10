@@ -1,0 +1,11 @@
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\bin\Debug\netcoreapp2.1\Stundenplan.deps.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\bin\Debug\netcoreapp2.1\Stundenplan.runtimeconfig.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\bin\Debug\netcoreapp2.1\Stundenplan.runtimeconfig.dev.json
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\bin\Debug\netcoreapp2.1\Stundenplan.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\bin\Debug\netcoreapp2.1\Stundenplan.pdb
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\obj\Debug\netcoreapp2.1\Stundenplan.csprojAssemblyReference.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\obj\Debug\netcoreapp2.1\Stundenplan.csproj.CoreCompileInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\obj\Debug\netcoreapp2.1\Stundenplan.AssemblyInfoInputs.cache
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\obj\Debug\netcoreapp2.1\Stundenplan.AssemblyInfo.cs
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\obj\Debug\netcoreapp2.1\Stundenplan.dll
+E:\Users\Tomislav\Desktop\HFU\Softwaredesign\Abschlussaufgabe\Stundenplan\obj\Debug\netcoreapp2.1\Stundenplan.pdb

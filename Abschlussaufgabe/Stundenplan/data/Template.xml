@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Professor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name></name>
+  <courses>
+    <Course>
+      <name></name>
+      <cohort>
+        <string></string>
+      </cohort>
+      <neededEquipment>
+        <Equipment></Equipment>
+      </neededEquipment>
+    </Course>
+  </courses>
+  <optionalCourses>
+    <Course>
+      <name></name>
+      <cohort>
+        <string>Optional</string>
+      </cohort>
+      <presetTime>
+        <int></int>
+        <int></int>
+      </presetTime>
+    </Course>
+  </optionalCourses>
+  <notAvailable>
+    <ArrayOfInt>
+      <int></int>
+      <int></int>
+    </ArrayOfInt>
+  </notAvailable>
+</Professor>

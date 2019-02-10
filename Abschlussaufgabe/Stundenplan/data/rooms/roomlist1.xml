@@ -17,6 +17,15 @@
     <size>40</size>
   </Room>
   <Room>
+    <name>L1.06</name>
+    <equipment>
+      <Equipment>Chalkboard</Equipment>
+      <Equipment>Whiteboard</Equipment>
+      <Equipment>Projector</Equipment>
+    </equipment>
+    <size>30</size>
+  </Room>
+  <Room>
     <name>L2.06</name>
     <equipment>
       <Equipment>Chalkboard</Equipment>
@@ -24,7 +33,7 @@
       <Equipment>Whiteboard</Equipment>
       <Equipment>PcPool</Equipment>
     </equipment>
-    <size>40</size>
+    <size>30</size>
   </Room>
   <Room>
     <name>L1.05</name>
@@ -42,5 +51,22 @@
       <Equipment>Projector</Equipment>
     </equipment>
     <size>40</size>
+  </Room>
+  <Room>
+    <name>I1.19</name>
+    <equipment>
+      <Equipment>Chalkboard</Equipment>
+      <Equipment>Whiteboard</Equipment>
+      <Equipment>PcPool</Equipment>
+      <Equipment>Projector</Equipment>
+    </equipment>
+    <size>21</size>
+  </Room>
+  <Room>
+    <name>N1.05</name>
+    <equipment>
+      <Equipment>LabEquipment</Equipment>
+    </equipment>
+    <size>30</size>
   </Room>
 </ArrayOfRoom>
